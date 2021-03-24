@@ -1,0 +1,42 @@
+mute    Protocol=NEC Address=0x8 Command=0xE Raw-Data=0xF10EF708 32 bits LSB first
+power   Protocol=RC5 Address=0xA Command=0xC Raw-Data=0x328C 13 bits MSB first
+guide   Protocol=RC5 Address=0xA Command=0x52 Raw-Data=0x2292 13 bits MSB first
+fav     Protocol=RC5 Address=0xA Command=0x1D Raw-Data=0x329D 13 bits MSB first
+help    Protocol=RC5 Address=0xA Command=0xF Raw-Data=0x328F 13 bits MSB first
+red     Protocol=RC5 Address=0xA Command=0x6B Raw-Data=0x22AB 13 bits MSB first
+green   Protocol=RC5 Address=0xA Command=0x6C Raw-Data=0x22AC 13 bits MSB first
+yellow  Protocol=RC5 Address=0xA Command=0x6D Raw-Data=0x22AD 13 bits MSB first
+blue    Protocol=RC5 Address=0xA Command=0x6E Raw-Data=0x22AE 13 bits MSB first
+tv      Protocol=RC5 Address=0xA Command=0x53 Raw-Data=0x2293 13 bits MSB first
+home    Protocol=RC5 Address=0xA Command=0x4F Raw-Data=0x228F 13 bits MSB first
+v+      Protocol=RC5 Address=0xA Command=0x41 Raw-Data=0x2281 13 bits MSB first
+i       Protocol=RC5 Address=0xA Command=0x2F Raw-Data=0x32AF 13 bits MSB first
+back    Protocol=RC5 Address=0xA Command=0x22 Raw-Data=0x32A2 13 bits MSB first
+vol+    Protocol=NEC Address=0x8 Command=0x10 Raw-Data=0xEF10F708 32 bits LSB first
+vol-    Protocol=NEC Address=0x8 Command=0x11 Raw-Data=0xEE11F708 32 bits LSB first
+ch+       
+ch-      
+up       
+down     
+left    
+right      
+ok       
+rw      
+play    
+ff      
+rw+     
+rec     
+stop    
+ff+    
+1       
+2       
+3       
+4       
+5       
+6       
+7       
+8       
+9          
+0       
+*
+text
